@@ -10,6 +10,7 @@ body {
 h1 {
     text-align: center;
     padding: 1em;
+    text-transform: uppercase;
 }
 
 header ul {
@@ -31,12 +32,13 @@ a{
 }
 
 h2{
-    padding: 1.5em 1em 0;
+    padding-top: 1.5em;
+    padding-left: 1em;
 }
 
 h3,
 p{
-    padding: 0.5em 1em;
+    padding:1em 1em;
 }
 
 footer {
